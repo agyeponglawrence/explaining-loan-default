@@ -1,4 +1,4 @@
-# Explaining Loan Defaul: A Data Visualization Approach
+# Explaining Loan Default: A Data Visualization Approach
 ## by Lawrence Agyepong
 
 
